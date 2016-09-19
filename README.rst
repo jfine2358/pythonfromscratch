@@ -1,3 +1,3 @@
 ###################
-Python from Scratch
+Python From Scratch
 ###################
